@@ -56,3 +56,8 @@ Quantify how editing style (AB vs. NB) and boundary type (BB vs. EM) shape recog
 2. **Inference Pipeline:** Based on distribution diagnostics, run parametric (t-tests/ANOVA) or non-parametric (Mann–Whitney, permutation) tests to evaluate condition differences rigorously.
 3. **Signal-Detection Metrics:** Compute d-prime (hit rate - false-alarm rate) per participant and repeat the condition/boundary comparisons to account for response bias.
 4. **Multi-level Variability:** Incorporate movie-level or participant-level random effects to model variability and relate confidence ratings to accuracy and RT, clarifying whether elevated confidence drives faster or more accurate responses in specific groups.
+
+## Contribution
+**Harsh Gupta:** Data preprocessing, demographic merging, derived metrics computation, methods writing.
+**Kartik Vij:** Visualization coding, plot generation, results section, figure explanations
+**Yash Bhutada:** Dataset overview, interpretation, statistical analysis coding, future work, report editing
