@@ -1,5 +1,7 @@
 # Report 1 · Exploratory Visualizations for the Movie Memory Study
 
+## Team : Toba Tek Singh
+
 ## Introduction
 Abrupt vs. naturalistic film edits modulate how viewers perceive event boundaries, which in turn affects how reliably they encode and later recognize still frames from those movies. Event-segmentation theory predicts that abrupt cuts (AB) can disrupt predictive models and impair recognition, whereas natural boundaries (NB) align with mnemonic expectations and may boost accuracy and confidence. The BRSM Movie Memory dataset captures this phenomenon through a recognition task in which participants encode edited movie clips and later discriminate target frames (either right **b**efore **b**oundaries, BB, or within the **e**vent **m**iddle, EM) from visually similar lures. Understanding how editing style interacts with boundary type informs both cognitive models of memory and practical editing decisions for educational or narrative media.
 
