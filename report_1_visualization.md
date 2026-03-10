@@ -61,3 +61,5 @@ Quantify how editing style (AB vs. NB) and boundary type (BB vs. EM) shape recog
 **Harsh Gupta:** Data preprocessing, demographic merging, derived metrics computation, methods writing.
 **Kartik Vij:** Visualization coding, plot generation, results section, figure explanations
 **Yash Bhutada:** Dataset overview, interpretation, statistical analysis coding, future work, report editing
+
+**Link to the repo:** https://github.com/KartikVij2302/Movie-Memory-Analysis/tree/main
